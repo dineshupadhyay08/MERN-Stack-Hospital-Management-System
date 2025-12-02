@@ -13,7 +13,7 @@ const MessageForm = () => {
     try {
       await axios
         .post(
-          "https://mern-stack-hospital-management-system-m1pi.onrender.com//api/v1/message/send",
+          "https://mern-stack-hospital-management-system-m1pi.onrender.com/api/v1/message/send",
           { firstName, lastName, phone, email, message },
           {
             withCredentials: true,

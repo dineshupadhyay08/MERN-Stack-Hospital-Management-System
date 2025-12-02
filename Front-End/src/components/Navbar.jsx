@@ -15,7 +15,7 @@ const Navbar = () => {
     try {
       await axios
         .get(
-          "https://mern-stack-hospital-management-system-m1pi.onrender.com//api/v1/user/patient/logout",
+          "https://mern-stack-hospital-management-system-m1pi.onrender.com/api/v1/user/patient/logout",
           {
             withCredentials: true,
           }
