@@ -62,7 +62,11 @@ app.use(
     origin: [
       "http://localhost:5173",
       "http://localhost:5174",
+      // Main frontend (public-facing)
       "https://mern-stack-hospital-management-syst-zeta.vercel.app",
+
+      // Admin Dashboard URL (YOUR NEW ONE)
+      "https://mern-stack-hospital-management-syst-topaz.vercel.app",
     ],
     methods: ["GET", "POST", "PUT", "DELETE"],
     credentials: true,
