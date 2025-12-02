@@ -12,7 +12,7 @@ Both frontends are live on hosting.
 
 ## 🚀 Live Demo Links
 ### 🔹 **User Frontend (Patients)**
-👉 https://your-user-domain.vercel.app/
+👉 https://mern-stack-hospital-management-syst-zeta.vercel.app/
 
 ### 🔹 **Admin Dashboard**
 👉 https://your-admin-dashboard.vercel.app/
