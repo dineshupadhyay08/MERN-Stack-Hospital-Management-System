@@ -57,6 +57,8 @@ import appointmentRouter from "./router/appointmentRouter.js";
 const app = express();
 congig.config({ path: "./config/config.env" });
 
+app.set("trust proxy", 1);
+
 app.use(
   cors({
     origin: [
