@@ -15,7 +15,7 @@ Both frontends are live on hosting.
 👉 https://mern-stack-hospital-management-syst-zeta.vercel.app/
 
 ### 🔹 **Admin Dashboard**
-👉 https://your-admin-dashboard.vercel.app/
+👉 https://mern-stack-hospital-management-syst-topaz.vercel.app/login
 
 ---
 
