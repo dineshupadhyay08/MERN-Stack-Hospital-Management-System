@@ -95,7 +95,7 @@ Admin can manage the entire hospital system from the dashboard:
 ---
 
 # 📁 Folder Structure
-
+```
 Hospital-Management:
   Front-End:              # User App (Patient Side)
     src/
@@ -115,7 +115,7 @@ Hospital-Management:
     uploads/
     .env
     server.js
-
+```
 
 ---
 
@@ -123,6 +123,7 @@ Hospital-Management:
 
 ## 1️⃣ Clone Repository
 git clone https://github.com/dineshupadhyay08/MERN-Stack-Hospital-Management-System.git
+
 cd hospital-management
 
 
@@ -165,8 +166,7 @@ Password: 12345678
 ---
 
 # 📦 Deployment
-Both frontends deployed on **Vercel**, backend deployed on:
-- Render / Railway / Vercel Functions / Cyclic
+Both frontends deployed on **Vercel**, backend deployed on **Render**
 
 ---
 
